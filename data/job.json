@@ -1,0 +1,785 @@
+[
+    {
+        "title": "Инженер данных (Junior)",
+        "employer": "DNS Технологии",
+        "url": "https://hh.ru/vacancy/82323044",
+        "description": "Разрабатывать и управлять хранилищем метаданных на платформе DataHub. Управлять политиками доступа. Обеспечивать безопасность данных: сокрытие защищенных данных, создание и контроль...",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Scientist middle+/Senior",
+        "employer": "Мамаева Ирина Анатольевна",
+        "url": "https://hh.ru/vacancy/82750408",
+        "description": "Моделирование и обработка данных на <highlighttext>Python</highlighttext> для извлечения бизнес-ценности из данных. Глубокое обсуждение задач и методов их решения совместно...",
+        "salary_from": 250000,
+        "salary_to": 380000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Junior Data Analyst / Data Analyst",
+        "employer": "WhoIsBlogger (WIB)",
+        "url": "https://hh.ru/vacancy/82346986",
+        "description": "Реализация различных проектных задач, связанных со сбором и обработкой данных с использованием SQL. Подготовка и очистка данных для реализации типовых...",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик/junior (офис)",
+        "employer": "ПроКомплаенс",
+        "url": "https://hh.ru/vacancy/81357710",
+        "description": "Формирование новых метрик мониторинга. Доработка инфраструктурной части продукта. Проведение исследований для апробации новых технологических решений. Возможность участвовать в запуске нового...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Стажер-разработчик",
+        "employer": "Строй-Отделка",
+        "url": "https://hh.ru/vacancy/82631531",
+        "description": "Развивать применение ИИ для автоматизации и оптимизации рабочих процессов внутри компании.",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Удаленный стажер-аналитик (computer vision)",
+        "employer": "MindSet",
+        "url": "https://hh.ru/vacancy/82839132",
+        "description": "Применение классического ML к постобработке результатов нейросетевых моделей. Построение моделей машинного обучения, написание скриптов на <highlighttext>python</highlighttext>. Внедрение моделей в продукцию. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Стажер - Data/BI аналитик",
+        "employer": "Газпром ЦПС",
+        "url": "https://hh.ru/vacancy/82856014",
+        "description": "Работа с различными источниками данных: парсинг, проверка качества данных, консолидация. Поиск закономерностей в данных, выделение бизнес-инсайтов. Разработка прототипов аналитических...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Стажер-разработчик",
+        "employer": "Pacific.agency",
+        "url": "https://hh.ru/vacancy/81697996",
+        "description": "Помощь в разработке и поддержке программного кода в соответствии с требованиями проекта. Изучение языков программирования, фреймворков, библиотек и инструментов. ",
+        "salary_from": null,
+        "salary_to": 20000,
+        "currency": "RUR"
+    },
+    {
+        "title": "ML-специалист (Junior)",
+        "employer": "ГравиЛинк",
+        "url": "https://hh.ru/vacancy/76086723",
+        "description": "Исследованием и реализацией методов предобработки данных. Исследованием и реализацией методов совершенствования модели. Изучением научных статей, воспроизведением результатов. Формулировкой гипотез, проведением...",
+        "salary_from": 1000,
+        "salary_to": 2000,
+        "currency": "USD"
+    },
+    {
+        "title": "Стажер-разработчик (Machine Learning)",
+        "employer": "Яндекс",
+        "url": "https://hh.ru/vacancy/82635757",
+        "description": "Решение сложных задач для улучшения жизни людей.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Дата-аналитик",
+        "employer": "билайн",
+        "url": "https://hh.ru/vacancy/82742572",
+        "description": "Операционная поддержка текущих логистических моделей и разработка новых. Автоматизация расчетов на СУБД. Adhoc-аналитика (ABC-анализ, кластеризация, подготовка срезов и...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Remote AI Data Scientist",
+        "employer": "Rearden Media Ltd.",
+        "url": "https://hh.ru/vacancy/82280658",
+        "description": null,
+        "salary_from": 1700,
+        "salary_to": 7000,
+        "currency": "EUR"
+    },
+    {
+        "title": "CI Engineer (Инженер технической поддержки)",
+        "employer": "Бизнес-Азимут",
+        "url": "https://hh.ru/vacancy/82634965",
+        "description": "Мелкие/средние исправления/оптимизации для существующего Jenkins CI (Groovy, YAML, <highlighttext>Python</highlighttext>, Bash). Мониторинг систем автоматизации, проактивное реагирование на поломки. ",
+        "salary_from": 320000,
+        "salary_to": 370000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист",
+        "employer": "ЧОП Центавр",
+        "url": "https://hh.ru/vacancy/81922420",
+        "description": "Разработка новых и поддержка существующих Desktop\\Web приложений.",
+        "salary_from": 250000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Analyst (Middle/Senior)",
+        "employer": "Тагес Джамп",
+        "url": "https://hh.ru/vacancy/82580102",
+        "description": "Работа над полным циклом задач BI . Сбор, анализ и формализация требований для построения дашбордов (программно-проектное управление, производственные процессы, финансовые...",
+        "salary_from": 150000,
+        "salary_to": 290000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Младший разработчик SQL-аналитик данных",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/vacancy/82836811",
+        "description": "Сотруднику на данной позиции предстоит: - делать выборки, разрабатывать функции. - визуализировать отчетность в BI-инструменте QlikView. - выполнять Ad-hoc запросы. - ",
+        "salary_from": 52300,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист-аналитик по видеоанализу",
+        "employer": "ТИП",
+        "url": "https://hh.ru/vacancy/82785464",
+        "description": "Доработка и разработка собственных программ по анализу видеонаблюдения (3 вида). Анализ данных с системы видеоконтроля. Обработка изображений с видеокамер и...",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Senior Data Engineer / ETL Developer",
+        "employer": "4CV Recruitment Services",
+        "url": "https://hh.ru/vacancy/81675943",
+        "description": "Временная зона. Проектирование и реализация ETL сервисов, взаимодействие с бэкенд командой.",
+        "salary_from": 7000,
+        "salary_to": 10000,
+        "currency": "USD"
+    },
+    {
+        "title": "Data Engineer",
+        "employer": "Метр квадратный",
+        "url": "https://hh.ru/vacancy/82854999",
+        "description": "Разрабатывать и сопровождать решения для пакетной и потоковой выгрузки данных из корпоративных и внешних систем в аналитическое хранилище (основной стек...",
+        "salary_from": 220000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Computer Vision/ML Engineer Custom Research (Junior+)",
+        "employer": "Tevian (ООО Технологии видеоанализа)",
+        "url": "https://hh.ru/vacancy/82312014",
+        "description": "Более частое переключение между задачами, реализация их с нуля и до приемлемой точности. Отсутствие долговременной работы по повышению точности одного...",
+        "salary_from": 130000,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Дата-аналитик",
+        "employer": "билайн",
+        "url": "https://hh.ru/vacancy/82742573",
+        "description": "Операционная поддержка текущих логистических моделей и разработка новых. Автоматизация расчетов на СУБД. Adhoc-аналитика (ABC-анализ, кластеризация, подготовка срезов и...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "ML engineer",
+        "employer": "Reputation House",
+        "url": "https://hh.ru/vacancy/82691750",
+        "description": "Разрабатывать модели выявления аномалий временных рядов. Анализ тональности текста. Саммаризация текстов. Определения релевантности текста тем или иным ключевым словам или...",
+        "salary_from": 170000,
+        "salary_to": 220000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Engineer (Дата-инженер)",
+        "employer": "Скайтек",
+        "url": "https://hh.ru/vacancy/82544682",
+        "description": "Сбор, валидация и хранение данных в MySQL и Clickhouse. Интеграция данных из внешних API в различных форматах (json / csv). ",
+        "salary_from": 100000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data engineer (middle+)",
+        "employer": "Мамаева Ирина Анатольевна",
+        "url": "https://hh.ru/vacancy/82858863",
+        "description": "Наполнение витрин данных из разнообразных/разнородных источников. Интеграции с внешними системами сбора данных, выгрузки во внешние системы. Реализация логики расчетов...",
+        "salary_from": null,
+        "salary_to": 400000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Machine Learning Engineer (junior)",
+        "employer": "ФГБОУ ВО Самарский государственный медицинский университет МЗ РФ",
+        "url": "https://hh.ru/vacancy/82831116",
+        "description": "Поиск, подготовка и проверка данных под руководством ментора. Препроцессинг данных. Тестирование реализаций алгоритмов машинного обучения. Использование/настройка ML Pipelines. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "FPGA разработчик в Райтек (ЦОС)",
+        "employer": "Райтек",
+        "url": "https://hh.ru/vacancy/82069322",
+        "description": "Разрабатывать IP ядра на основе DSP алгоритмов. Моделировать алгоритмы при помощи <highlighttext>Python</highlighttext> или Matlab. Внедрять разработанные IP ядра в проекты...",
+        "salary_from": 220000,
+        "salary_to": 350000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Продуктовый аналитик/ data analyst (Middle)",
+        "employer": "Платформа Больших Данных",
+        "url": "https://hh.ru/vacancy/82431339",
+        "description": "Мероприятия для поддержания хорошего настроения (корпоративы, презентации новых IT-продуктов, сюрпризы на День Рождения). Сбор информации по источникам данных и...",
+        "salary_from": 240000,
+        "salary_to": 240000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data engineer",
+        "employer": "Ранкс",
+        "url": "https://hh.ru/vacancy/82583080",
+        "description": "Регулярная загрузка данных через API Refinitive с помощью <highlighttext>Python</highlighttext>. Обработка данных, устранение несовершенств данных, улучшение архитектуры баз данных. ",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "NLP Data Scientist",
+        "employer": "СБЕР",
+        "url": "https://hh.ru/vacancy/79909326",
+        "description": "1. Участие в проектировании, разработке и внедрении диалоговых и генеративных моделей, например таких как ChatGPT или MidJourney для различных бизнес...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Аналитик данных",
+        "employer": "UNICA engineering",
+        "url": "https://hh.ru/vacancy/81243565",
+        "description": "Работа с большим массивом информации. Сбор, обработка и структурирование данных. Анализ данных и информации в БД. Описание, анализ и оптимизация...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Аналитик данных",
+        "employer": "DSSL",
+        "url": "https://hh.ru/vacancy/82544620",
+        "description": "Визуализация данных. Решение задач классификации, кластеризации, прогнозирования. Написание скриптов на <highlighttext>Python</highlighttext> для обработки данных. Обработка естественного языка. Написание SQL запросов...",
+        "salary_from": 80000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Стажер-аналитик (большие данные)",
+        "employer": "Яндекс",
+        "url": "https://hh.ru/vacancy/82522069",
+        "description": "Задача аналитиков — извлекать из данных смысл и помогать командам принимать правильные решения. Этим и занимаются стажёры, которых интересует аналитика. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Deep Learning Engineer",
+        "employer": "Лаборатория компьютерного зрения",
+        "url": "https://hh.ru/vacancy/81806336",
+        "description": "Решать задачи детектирования и сегментации объектов на расстояния более 150 метров. Деплой и оптимизация алгоритмов для запуска на Nvidia Jetson. ",
+        "salary_from": null,
+        "salary_to": 250000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Аналитик данных",
+        "employer": "Хрони Кирилл Олегович",
+        "url": "https://hh.ru/vacancy/82651308",
+        "description": "Создание математических моделей, скриптов обработки данных (на базе Power Query, SQL и VBA), витрин и дашбордов. Подготовка данных для анализа...",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Аналитик данных",
+        "employer": "DSSL",
+        "url": "https://hh.ru/vacancy/82544623",
+        "description": "Визуализация данных. Решение задач классификации, кластеризации, прогнозирования. Написание скриптов на <highlighttext>Python</highlighttext> для обработки данных. Обработка естественного языка. Написание SQL запросов...",
+        "salary_from": 80000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Инженер по тестированию математических моделей",
+        "employer": "Ритм",
+        "url": "https://hh.ru/vacancy/82858126",
+        "description": "Проверка корректности расчёта поведения математических моделей систем автоматического управления с физическими объектами управления путём сравнения с эталонным решением.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Scientist",
+        "employer": "getmatch",
+        "url": "https://hh.ru/vacancy/82412025",
+        "description": "Улучшать выявление факта посещений компаний, в том числе и за рубежом. Искать способы улучшить сбор отзывов пользователей и фото, относящихся...",
+        "salary_from": null,
+        "salary_to": 450000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Engineer (Greenplum)",
+        "employer": "Точка",
+        "url": "https://hh.ru/vacancy/81216107",
+        "description": "Выстраивать конвейеры данных от источников до конечного хранилища. Проектировать архитектуру core-слоя и создавать витрины данных. Находить узкие места, оптимизировать...",
+        "salary_from": null,
+        "salary_to": 400000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Аналитик данных",
+        "employer": "DSSL",
+        "url": "https://hh.ru/vacancy/82544622",
+        "description": "Визуализация данных. Решение задач классификации, кластеризации, прогнозирования. Написание скриптов на <highlighttext>Python</highlighttext> для обработки данных. Обработка естественного языка. Написание SQL запросов...",
+        "salary_from": 80000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Engineer / Инженер данных",
+        "employer": "Апптимизм",
+        "url": "https://hh.ru/vacancy/82765217",
+        "description": "Разрабатывать витрины данных. Интегрировать новые источники данных в DataLake. Обрабатывать потоковые данные (streaming). Контролировать качество загружаемых данных. Проводить код ревью. ",
+        "salary_from": null,
+        "salary_to": 250000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик ПО (BetaFlight, Ardupilot, INAV) Удаленно.",
+        "employer": "НИПП РУСТЕХДРОН",
+        "url": "https://hh.ru/vacancy/81484585",
+        "description": "Разработка ПО для управления БПЛА на базе прошивок BetaFlight, Ardupilot, INAV. Доработка алгоритмов и настроек полетного контроллера на прошивках BetaFlight...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Analyst",
+        "employer": "LoyaltyPlant",
+        "url": "https://hh.ru/vacancy/82576543",
+        "description": "Готовить выгрузки из SQL баз данных. Предобрабатывать данные (<highlighttext>Python</highlighttext>, Jupyter, Pandas). Создавать автоматические скрипты (<highlighttext>Python</highlighttext>). Участвовать в настройке маркетинговых инструментов...",
+        "salary_from": 50000,
+        "salary_to": 70000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Junior DevOps Engineer (Quantum as a Service)",
+        "employer": "Russian Quantum Center",
+        "url": "https://hh.ru/vacancy/81606993",
+        "description": "Развертывание, настройка и сопровождение квантовых облачных сервисов. Участие в задачах по интеграции и тестированию вычислительных модулей. Настройка и администрирование инструментов...",
+        "salary_from": 120000,
+        "salary_to": 170000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Инженер-программист/математик",
+        "employer": "Алабуга, ОЭЗ ППТ",
+        "url": "https://hh.ru/vacancy/82665032",
+        "description": "Поиск и анализ перспективных алгоритмов в области цифровой обработки сигнала, адаптивного диаграммообразования. Реализация данных алгоритмов на языках C++, <highlighttext>python</highlighttext>, matlab.",
+        "salary_from": 250000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Scientist",
+        "employer": "ЭкспрессДеньги",
+        "url": "https://hh.ru/vacancy/81958855",
+        "description": "Генерация и реализация идей для развития существующих продуктов и запуска новых в направлении скоринга. Непрерывное улучшение скоринговых моделей. ",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Analyst / Продуктовый аналитик",
+        "employer": "Photo Lab",
+        "url": "https://hh.ru/vacancy/81974230",
+        "description": "Разработка внутренних сервисов мониторинга бизнес-метрик и аналитических данных. Сегментация пользователей и разработка моделей классификации. Автоматизация ETL (<highlighttext>Python</highlighttext>). ",
+        "salary_from": 130000,
+        "salary_to": 180000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Analyst",
+        "employer": "HR Prime",
+        "url": "https://hh.ru/vacancy/82748506",
+        "description": "Работа в команде над основными проектами компании. Анализ пользовательского поведения. Построение гипотез на основе исследований и работа с полученными данными.",
+        "salary_from": 3000,
+        "salary_to": 5300,
+        "currency": "USD"
+    },
+    {
+        "title": "Computer vision engineer(C++)",
+        "employer": "БЕТА",
+        "url": "https://hh.ru/vacancy/81559608",
+        "description": "Разработка ПО с применением нейронных сетей и компьютерного зрения для автономных БПЛА.",
+        "salary_from": 350000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Инженер-программист/математик",
+        "employer": "Алабуга, ОЭЗ ППТ",
+        "url": "https://hh.ru/vacancy/82665037",
+        "description": "Поиск и анализ перспективных алгоритмов в области цифровой обработки сигнала, адаптивного диаграммообразования. Реализация данных алгоритмов на языках C++, <highlighttext>python</highlighttext>, matlab.",
+        "salary_from": 250000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Дата-инженер/Data Engineer",
+        "employer": "ПартКом",
+        "url": "https://hh.ru/vacancy/81760537",
+        "description": "Поиск источников данных и исследование данных на корректность перед загрузкой в ХД. Настройка ETL/ELT процессов для выгрузки данных в...",
+        "salary_from": 180000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Инженер-программист/математик",
+        "employer": "Алабуга, ОЭЗ ППТ",
+        "url": "https://hh.ru/vacancy/82665033",
+        "description": "Поиск и анализ перспективных алгоритмов в области цифровой обработки сигнала, адаптивного диаграммообразования. Реализация данных алгоритмов на языках C++, <highlighttext>python</highlighttext>, matlab.",
+        "salary_from": 250000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Engineer",
+        "employer": "Rubbles",
+        "url": "https://hh.ru/vacancy/72312345",
+        "description": "Помощь коллегам DS в оптимизации их работающих пайплайнов. Проактивность с предложениями оптимизации. Взаимодействие с коллегами DevOps по настройке окружений, деплоя...",
+        "salary_from": null,
+        "salary_to": 400000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Game Data Analyst (Игровой аналитик)",
+        "employer": "Глушков Семен Андреевич",
+        "url": "https://hh.ru/vacancy/82502066",
+        "description": "Анализ игрового рынка, поиск успешных игровых, социальных и монетизационных механик. Использование sql, <highlighttext>python</highlighttext>, BI-систем для формирования отчетов, исследований и...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Программист",
+        "employer": "НПП ВакЭТО",
+        "url": "https://hh.ru/vacancy/82466105",
+        "description": "Разработка интерфейса основной программы на С++. Обработка ошибок и тестирование конечного приложения (<highlighttext>Python</highlighttext>).",
+        "salary_from": 90000,
+        "salary_to": 90000,
+        "currency": "RUR"
+    },
+    {
+        "title": "BI разработчик (стажировка)",
+        "employer": "Prime.Stat",
+        "url": "https://hh.ru/vacancy/81796813",
+        "description": "Мы, компания Prime.Stat. Занимаемся цифровизацией и автоматизацией бизнеса, выстраиванием системы аналитики и всем тем, что перекладывает рутинную работу с человека...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Дата-инженер",
+        "employer": "Дельта Джи",
+        "url": "https://hh.ru/vacancy/81621369",
+        "description": "Организация транспортировки, обработки и хранения данных (выстраивание data-pipelines). Оптимизация ETL-процессов. Участие в разработке витрин данных. Сбор и обработка...",
+        "salary_from": 60000,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Аналитик данных / Data scientist",
+        "employer": "СтандартПроект",
+        "url": "https://hh.ru/vacancy/77725684",
+        "description": "40% Доработка процесса оценки алгоритмов с использованием SQL, <highlighttext>Python</highlighttext>, Grafana. 4. 10% Подготовка сложных выгрузок с использованием SQL и <highlighttext>Python</highlighttext>.",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Scientist / ML Engineer (Middle+)",
+        "employer": "DIGINETICA",
+        "url": "https://hh.ru/vacancy/81489621",
+        "description": "Разрабатывать модели схожести запросов и товаров. Разрабатывать модели ранжирования. Дорабатывать сервис метрик и производить анализ метрик. Анализировать поиск, выдвигать гипотезы...",
+        "salary_from": 180000,
+        "salary_to": 260000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист-разработчик",
+        "employer": "Реверслаб",
+        "url": "https://hh.ru/vacancy/81004020",
+        "description": "Написание/ изменение программных кодов на языках !!! (ключевое). Наладка, запуск и сопровождение разрабатываемого программного обеспечения. Research, reverse.",
+        "salary_from": 150000,
+        "salary_to": 300000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист-разработчик",
+        "employer": "Вебтек",
+        "url": "https://hh.ru/vacancy/82841477",
+        "description": null,
+        "salary_from": 80000,
+        "salary_to": 130000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Junior сетевой инженер (QA)",
+        "employer": "UserGate",
+        "url": "https://hh.ru/vacancy/81682151",
+        "description": "Участвовать во всех технических этапах цикла обеспечения качества продукта (разворачивание стенда, написание тест-кейсов, написание автотестов на <highlighttext>python</highlighttext>).",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Analyst / Data Scientist (Junior/Junior+)",
+        "employer": "Kept (Кэпт)",
+        "url": "https://hh.ru/vacancy/82331776",
+        "description": "Участие в интересных проектах для крупнейших компаний. Применение продвинутых ИТ подходов на реальных проектах консалтинга. Разработка инструментов работы с данными...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Analyst (Аналитик данных)",
+        "employer": "Космос Про Медиа",
+        "url": "https://hh.ru/vacancy/82845285",
+        "description": "Извлечение, преобразование, загрузка данных и их обработка. Осуществление контроля корректности и полноты данных. Формирование отчетов, Data-визуализация. Создание аналитических моделей...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Специалист KYC (gambling)",
+        "employer": "Appie.tech",
+        "url": "https://hh.ru/vacancy/81958893",
+        "description": "Анализировать клиентское поведение в системе. Разрабатывать скрипты на <highlighttext>python</highlighttext>. Собирать тз для оптимизации системы со стороны разработки. Мониторить состояние системы...",
+        "salary_from": null,
+        "salary_to": 70000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Engineer / Программист моделей машинного обучения",
+        "employer": "Баззула Рекламные Технологии",
+        "url": "https://hh.ru/vacancy/82136567",
+        "description": "Выдвигать и проверять гипотезы для оптимизации и развития направления. — Участвовать в полном цикле жизни модели: обучение -> валидация -> деплой -> непрерывный мониторинг. ",
+        "salary_from": null,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Эконометрист/Data scientist (Junior/Middle) в консалтинг",
+        "employer": "БСТ Менеджмент-Консалтинг",
+        "url": "https://hh.ru/vacancy/82227099",
+        "description": "Построение моделей эластичности спроса на банковские продукты и моделей прогнозирования в ритейле в т.ч. с учётом гео-аналитических данных. ",
+        "salary_from": 40000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Инженер-тестировщик",
+        "employer": "Цифровые решения, НПП",
+        "url": "https://hh.ru/vacancy/81116839",
+        "description": "...информации (USB, SSD, M.2). Ведение отчетности. Поддержка тестовых стендов и тестового оборудования. Разработка и рефакторинг скриптов на <highlighttext>Python</highlighttext>3.",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "AI specialist/Специалист по внедрению ИИ",
+        "employer": "Космос Про Медиа",
+        "url": "https://hh.ru/vacancy/82843249",
+        "description": "Разработка и внедрение AI-нейросетей в процессы компании. Автоматизация и повышение эффективности бизнес-процессов. Проведение тренингов по работе с AI...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Аналитик данных / Data Analyst / BI-аналитик",
+        "employer": "Фрифлекс",
+        "url": "https://hh.ru/vacancy/81864650",
+        "description": "Составление дэшбордов по метрикам продуктов (выборки данных из разных БД, построение DWH, визуализация метрик). Формулирование и проверка гипотез. ",
+        "salary_from": 150000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Scientist / ML Engineer (Middle+)",
+        "employer": "DIGINETICA",
+        "url": "https://hh.ru/vacancy/81489620",
+        "description": "Разрабатывать модели схожести запросов и товаров. Разрабатывать модели ранжирования. Дорабатывать сервис метрик и производить анализ метрик. Анализировать поиск, выдвигать гипотезы...",
+        "salary_from": 180000,
+        "salary_to": 260000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Scientist (middle/senior)",
+        "employer": "Rubbles",
+        "url": "https://hh.ru/vacancy/70163749",
+        "description": "Моделирование и обработка данных на <highlighttext>Python</highlighttext> для извлечения бизнес-ценности из данных. Построение воспроизводимых и переиспользуемых решений для работы с...",
+        "salary_from": null,
+        "salary_to": 450000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Engineer",
+        "employer": "Procter & Gamble",
+        "url": "https://hh.ru/vacancy/79672184",
+        "description": "Design and implement complex technical solutions to obtain, process, and store data. Automate and optimize internal ETL processes in MS...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Data Engineer",
+        "employer": "DNS Технологии",
+        "url": "https://hh.ru/vacancy/79699010",
+        "description": "Доработка и создание нового функционала. Разработка и оптимизация SQL запросов. Подготовка витрин данных. Обработка массива данных и подготовка информации для...",
+        "salary_from": 70000,
+        "salary_to": 140000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Инженер-разработчик в области машинного зрения и нейронных сетей",
+        "employer": "Витэк-Автоматика",
+        "url": "https://hh.ru/vacancy/81710171",
+        "description": "Разработка систем машинного зрения, сочетающих в себе классические алгоритмы и нейронные сети. Выбор топологии и обучение нейронных сетей. ",
+        "salary_from": 70000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Django разработчик middle/middle+ (удаленно)",
+        "employer": "GetTask",
+        "url": "https://hh.ru/vacancy/81972769",
+        "description": "Разработка серверной части для клиентского кабинета и мобильного приложения исполнителей. Доработка и поддержка существующей функциональности.",
+        "salary_from": 120000,
+        "salary_to": 180000,
+        "currency": "RUR"
+    },
+    {
+        "title": "DevOps-инженер",
+        "employer": "АНО Институт инженерной физики",
+        "url": "https://hh.ru/vacancy/82257729",
+        "description": "Подготовка инфраструктуры под задачи различных проектов. Инсталляция решений на стороне заказчика. Ведение технической документации.",
+        "salary_from": 170000,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Инженер по тестированию",
+        "employer": "InfiNet Wireless",
+        "url": "https://hh.ru/vacancy/81637967",
+        "description": "Команда InfiNet Wireless: - поддержка и развитие автоматизированной системы функционального тестирования ПО устройств на базе стека инструментов и фреймворков GitLab CI...",
+        "salary_from": 100000,
+        "salary_to": 150000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Scientist R&D",
+        "employer": "Rubbles",
+        "url": "https://hh.ru/vacancy/81854583",
+        "description": "Проверка и валидация бизнес-гипотез с существенным погружением в предметную область. Решение ML-задач, к которым свелась бизнес-проблема, выбор...",
+        "salary_from": 150000,
+        "salary_to": 300000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Data Scientist / ML Engineer (Middle+)",
+        "employer": "DIGINETICA",
+        "url": "https://hh.ru/vacancy/81489622",
+        "description": "Разрабатывать модели схожести запросов и товаров. Разрабатывать модели ранжирования. Дорабатывать сервис метрик и производить анализ метрик. Анализировать поиск, выдвигать гипотезы...",
+        "salary_from": 180000,
+        "salary_to": 260000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Junior Data Analyst",
+        "employer": "Valiotti Analytics",
+        "url": "https://hh.ru/vacancy/82178363",
+        "description": "Разработка отчетов в BI-системах: Tableau, Redash, Superset, PowerBI. Построение дашбордов и систем мониторинга. Построение отчетов с использованием <highlighttext>Python</highlighttext> (pandas...",
+        "salary_from": null,
+        "salary_to": null,
+        "currency": null
+    },
+    {
+        "title": "Computer Vision Engineer",
+        "employer": "ZeBrains",
+        "url": "https://hh.ru/vacancy/81561221",
+        "description": "Разрабатывать алгоритмы детекции, сегментации, классификации и трекинга. Исследовать и анализировать существующие подходы в видеоаналитики и обработке изображений. Обучать, тестировать, адаптировать...",
+        "salary_from": null,
+        "salary_to": 200000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Разработчик нейронных сетей",
+        "employer": "ИНТЕГРА-С, Самара",
+        "url": "https://hh.ru/vacancy/81671241",
+        "description": "Участие в разработке программного обеспечения в области систем видеонаблюдения и видеоаналитики. Разработка алгоритмов с применением нейросетей. Разработка нейросетей для задач...",
+        "salary_from": 60000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Junior C++ разработчик алгоритмов геометрического моделирования",
+        "employer": "Ледас",
+        "url": "https://hh.ru/vacancy/82382753",
+        "description": "Программист на языке C++ для разработки и реализации алгоритмов вычислительной геометрии моделирования 3D тел в машиностроении и архитектуре и...",
+        "salary_from": 40000,
+        "salary_to": 70000,
+        "currency": "RUR"
+    },
+    {
+        "title": "Программист-разработчик",
+        "employer": "Сейфбит",
+        "url": "https://hh.ru/vacancy/82204821",
+        "description": "Разработка комплексных решений в области ИБ. Разработка Telegram ботов.",
+        "salary_from": null,
+        "salary_to": 120000,
+        "currency": "RUR"
+    },
+    {
+        "title": "SRE/DevOps Engineer (Highload)",
+        "employer": "Karma8",
+        "url": "https://hh.ru/vacancy/82831115",
+        "description": "Сопровождать зависимые команды. Развивать и поддерживать работоспособность инфраструктуры. Настраивать пайплайны, CI/CD и с помощью Ansible раскатывать.",
+        "salary_from": 200000,
+        "salary_to": 600000,
+        "currency": "RUR"
+    },
+    {
+        "title": "DevOps Engineer",
+        "employer": "Воркми",
+        "url": "https://hh.ru/vacancy/82391627",
+        "description": "Совместный проект с ВТБ. - Поддержка и внедрение CI/CD процессов в командах. - Поддержка Kubernetes. - Написание Helm Chart. - Автоматизация всех ручных...",
+        "salary_from": 300000,
+        "salary_to": null,
+        "currency": "RUR"
+    },
+    {
+        "title": "Middle Backend Developer",
+        "employer": "Programmatic Group",
+        "url": "https://hh.ru/vacancy/82055077",
+        "description": "Доработка и поддержка бэка личного кабинета сервиса интернет-рекламы по уже готовым требования с последующей технической поддержкой.",
+        "salary_from": 100000,
+        "salary_to": 130000,
+        "currency": "RUR"
+    }
+]
